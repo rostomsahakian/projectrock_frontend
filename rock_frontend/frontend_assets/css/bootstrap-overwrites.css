@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 4, 2016, 12:35:55 PM
+    Author     : rostom
+*/
+
+.rock-nav-overwrite  .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover{
+    color: #000;
+    background-color: transparent;
+}
+.rock-nav-overwrite > li > a {
+    color: #000 !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+}
+.rock-nav-default{
+    background-color: #F2F2F2 !important;
+    border-color: #C2C2C2 !important;
+}
+.rock-in-between-navs{
+    min-height: 90px !important;
+}
